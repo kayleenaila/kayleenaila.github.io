@@ -1,0 +1,38 @@
+h1 {
+  color: tan;
+  text-shadow: 2px 2px #ede8ef;
+  letter-spacing: 10px;
+  font-family: georgia;
+  font-size: 40px;
+  text-decoration: underline;
+}
+.tan {
+  color: #ddb377;
+  font-size: 14px;
+  font-family: monospace;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.tansmall {
+  color:  #ddb377;
+  font-family: monospace;
+}
+ul {
+  list-style-type: none;
+  line-height: .4;
+}
+.funfact {
+  color: #ddb377;
+  font-family: monospace;
+}
+.love {
+  color: #ddb377;
+  font-family: monospace;
+}
+*{
+     margin:0px 15px 50px 15px;
+}
+
+html, body{
+     text-align: center;
+}

@@ -36,3 +36,7 @@ ul {
 html, body{
      text-align: center;
 }
+.game { 
+  color: #ddb377; 
+  line-spacing: 2em; 
+  font-family: monospace;

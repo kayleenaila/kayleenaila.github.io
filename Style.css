@@ -38,5 +38,5 @@ html, body{
 }
 .game { 
   color: #ddb377; 
-  line-spacing: 2em; 
+  line-height: 20px; 
   font-family: monospace;

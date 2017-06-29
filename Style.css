@@ -48,3 +48,8 @@ html, body{
   color: #ddb377;
   line-height: 20px;
   font-family: monospace;
+}
+a {
+  color: #ddb377 
+  font-family: monospace;
+}

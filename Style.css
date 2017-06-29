@@ -36,8 +36,15 @@ ul {
 html, body{
      text-align: center;
 }
-.game { 
-  color: #ddb377; 
-  line-height: 20px; 
+.box {
+    border: 2px solid #ddb377;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 5px;
+    width: 800px;
+    height: 250px;
+}
+.game {
+  color: #ddb377;
+  line-height: 20px;
   font-family: monospace;
-  font-size: 14px;
